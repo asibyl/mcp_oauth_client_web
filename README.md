@@ -3,6 +3,10 @@
 ## Demo
 
 
+https://github.com/user-attachments/assets/c953b921-c8f8-474b-892b-9f2aa5bce33d
+
+
+
 ## Overview
 
 The purpose of this project is to implement an MCP Client with end-to-end OAuth support with a Streamable HTTP Server and then use it to inspect the transport and messages exchanged with the MCP Server. 
