@@ -7,9 +7,7 @@ The purpose of this project is to implement an MCP Client with end-to-end OAuth 
 
 ### Demo
 
-
-
-https://github.com/user-attachments/assets/3b79fecb-7b1e-4189-8cd3-1d2d42027611
+https://github.com/user-attachments/assets/278bf15e-a762-47ac-8b2d-8f4a8e64eada
 
 
 
