@@ -8,8 +8,6 @@ The purpose of this project is to implement an MCP Client with end-to-end OAuth 
 ### Demo
 
 
-https://github.com/user-attachments/assets/c953b921-c8f8-474b-892b-9f2aa5bce33d
-
 
 ### Operating Modes
 At a minimum, this requires implementing an OAuthClientProvider that saves and retrieves auth information in session storage. When the user requests to connect with a server in the *Connect* panel, the client handles this through the `useConnection` hook, where the `connect` method works in two steps:
